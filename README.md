@@ -8,7 +8,6 @@ This repository is dedicated to my journey of learning Python. Here, you'll find
 - [Projects](#projects)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -64,10 +63,6 @@ Here are some resources that I've found helpful in my learning journey:
 ## Contributing
 
 I welcome contributions from anyone who wants to help improve this repository. If you have suggestions for new projects or improvements to existing code, please feel free to submit a pull request or open an issue.
-
-## Contact
-
-If you have any questions or would like to connect, you can reach me at [cainista@gmail.com](mailto:cainista@gmail.com).
 
 ---
 
