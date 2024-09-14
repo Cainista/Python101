@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/Python101.git
 
 Here are some of the projects and exercises you'll find in this repository:
 
-1. **Hello World:** A simple script to print "Hello, World!" to the console.
+1. **[Hello World](https://github.com/Cainista/Python101/tree/main/01-Hola):** A simple script to print "Hello, World!" to the console.
 2. **Basic Math Operations:** Programs that perform basic arithmetic operations.
 3. **Control Structures:** Examples of using if-else statements, loops, and more.
 4. **Functions:** Creating and using functions in Python.
